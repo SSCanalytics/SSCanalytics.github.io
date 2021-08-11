@@ -48,7 +48,7 @@
 }
 .container .section:nth-child(4) {
 	color: white;
-	background: #DEB887 url(den.png);
+	background: #black url(den.png);
 	background-size: cover;
 	background-attachment: fixed;
 }
