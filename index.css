@@ -23,7 +23,7 @@
 
 .container .section:nth-child(1) {
 	color: white;
-	background-color: linear-gradient(183deg, #ff1f1f, #203d78, #eeff00);
+	background: linear-gradient(183deg, #ff1f1f, #203d78, #eeff00);
 	background-size: cover;
 	background-attachment: fixed;
 }
