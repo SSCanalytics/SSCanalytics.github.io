@@ -19,17 +19,11 @@
 	height: 100%;
 	scroll-snap-align: start;
 	background-blend-mode: multiply;
-	background: linear-gradient(183deg, #ff1f1f, #203d78, #eeff00);
-    background-size: 600% 600%;
-
-    -webkit-animation: AnimationName 30s ease infinite;
-    -moz-animation: AnimationName 30s ease infinite;
-    animation: AnimationName 30s ease infinite;
 }
 
 .container .section:nth-child(1) {
 	color: white;
-	background-color: #00BFFF;
+	background-color: linear-gradient(183deg, #ff1f1f, #203d78, #eeff00);
 	background-size: cover;
 	background-attachment: fixed;
 }
